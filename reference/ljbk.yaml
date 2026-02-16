@@ -4,6 +4,8 @@ x-stoplight:
 info:
   title: ljbk
   version: '1.0'
+  description: s
+  summary: dsds
 servers:
   - url: 'http://localhost:3000'
 paths:
