@@ -4,6 +4,7 @@ x-stoplight:
 info:
   title: 2.0 JS
   version: '1.0'
+  description: ;lkjhgfc
 host: 'localhost:3000'
 basePath: /
 schemes:
